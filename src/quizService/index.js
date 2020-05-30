@@ -360,7 +360,7 @@ const qBank = [
   {
     question: "Which candy is NOT made by Mars?",
     answers: ["Almond Joy", "M&M's", "Twix", "Snickers"],
-    correct: "Almond Joy",
+    correct: "Almond Joyc",
     questionId: "4811162"
   },
   {
